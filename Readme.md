@@ -142,4 +142,4 @@ This project is distributed under the MIT License.
 
 **Milad Ajaz Bhat** - [m4milaad](https://github.com/m4milaad)
 
-Project Link: [https://github.com/m4milaad/Car_Management](https://github.com/m4milaad/Car_Management)
+Project Link: [https://github.com/m4milaad/Car-Management](https://github.com/m4milaad/Car-Management)
